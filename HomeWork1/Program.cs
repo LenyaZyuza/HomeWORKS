@@ -50,3 +50,20 @@ Console.WriteLine($"Greater number is {greater}");
 
 */
 
+// Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
+
+/*
+
+Console.WriteLine("Input a number: ");
+int n = Convert.ToInt32(Console.ReadLine());
+
+if (n % 2 == 0)
+{
+    Console.WriteLine($"Number {n} is even");
+}
+else
+{
+    Console.WriteLine($"Number {n} is odd uneven");
+}
+
+*/
