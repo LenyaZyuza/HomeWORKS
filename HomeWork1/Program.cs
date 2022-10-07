@@ -1,5 +1,7 @@
 ﻿// Задача 2: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
 
+/*
+
 Console.WriteLine("Input a fisrt number: ");
 int n1 = Convert.ToInt32(Console.ReadLine());
 
@@ -18,3 +20,28 @@ else
 {
     Console.WriteLine($"First number {n1} and second number {n2} are equal.");
 }
+
+*/
+
+// Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
+
+Console.Writeline("Input a first number: ");
+int n1 = Convert.ToInt32(Console.Readline());
+
+Console.Writeline("Input a second number: ");
+int n2 = Convert.ToInt32(Console.Readline());
+
+Console.Writeline("Input a third number: ");
+int n3 = Convert.ToInt32(Console.Readline());
+
+int greater = n1;
+
+if(n2 > greater)
+{
+    greater = n2;
+}
+if(n3 > greater)
+{
+    greater = n3;
+}
+Console.WriteLine($"Greater number is {greater}");
