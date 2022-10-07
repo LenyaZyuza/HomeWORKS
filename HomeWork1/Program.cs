@@ -23,16 +23,18 @@ else
 
 */
 
-// Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
+// Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 
-Console.Writeline("Input a first number: ");
-int n1 = Convert.ToInt32(Console.Readline());
+/*
 
-Console.Writeline("Input a second number: ");
-int n2 = Convert.ToInt32(Console.Readline());
+Console.WriteLine("Input a first number: ");
+int n1 = Convert.ToInt32(Console.ReadLine());
 
-Console.Writeline("Input a third number: ");
-int n3 = Convert.ToInt32(Console.Readline());
+Console.WriteLine("Input a second number: ");
+int n2 = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Input a third number: ");
+int n3 = Convert.ToInt32(Console.ReadLine());
 
 int greater = n1;
 
@@ -45,3 +47,6 @@ if(n3 > greater)
     greater = n3;
 }
 Console.WriteLine($"Greater number is {greater}");
+
+*/
+
