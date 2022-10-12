@@ -1,0 +1,15 @@
+/Users/dinoel/Documents/GB/C#/HomeWorks/HomeWork2/bin/Debug/net6.0/HomeWork2
+/Users/dinoel/Documents/GB/C#/HomeWorks/HomeWork2/bin/Debug/net6.0/HomeWork2.deps.json
+/Users/dinoel/Documents/GB/C#/HomeWorks/HomeWork2/bin/Debug/net6.0/HomeWork2.runtimeconfig.json
+/Users/dinoel/Documents/GB/C#/HomeWorks/HomeWork2/bin/Debug/net6.0/HomeWork2.dll
+/Users/dinoel/Documents/GB/C#/HomeWorks/HomeWork2/bin/Debug/net6.0/HomeWork2.pdb
+/Users/dinoel/Documents/GB/C#/HomeWorks/HomeWork2/obj/Debug/net6.0/HomeWork2.csproj.AssemblyReference.cache
+/Users/dinoel/Documents/GB/C#/HomeWorks/HomeWork2/obj/Debug/net6.0/HomeWork2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dinoel/Documents/GB/C#/HomeWorks/HomeWork2/obj/Debug/net6.0/HomeWork2.AssemblyInfoInputs.cache
+/Users/dinoel/Documents/GB/C#/HomeWorks/HomeWork2/obj/Debug/net6.0/HomeWork2.AssemblyInfo.cs
+/Users/dinoel/Documents/GB/C#/HomeWorks/HomeWork2/obj/Debug/net6.0/HomeWork2.csproj.CoreCompileInputs.cache
+/Users/dinoel/Documents/GB/C#/HomeWorks/HomeWork2/obj/Debug/net6.0/HomeWork2.dll
+/Users/dinoel/Documents/GB/C#/HomeWorks/HomeWork2/obj/Debug/net6.0/refint/HomeWork2.dll
+/Users/dinoel/Documents/GB/C#/HomeWorks/HomeWork2/obj/Debug/net6.0/HomeWork2.pdb
+/Users/dinoel/Documents/GB/C#/HomeWorks/HomeWork2/obj/Debug/net6.0/HomeWork2.genruntimeconfig.cache
+/Users/dinoel/Documents/GB/C#/HomeWorks/HomeWork2/obj/Debug/net6.0/ref/HomeWork2.dll
